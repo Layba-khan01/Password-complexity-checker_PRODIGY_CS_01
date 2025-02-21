@@ -32,7 +32,7 @@ The tool assigns a strength level:<br>
 If a password is weak, the tool provides suggestions such as:<br>
 "Include uppercase letters."<br>
 "Add special characters like @, #, !, $."<br>
-"Increase password length to at least 8 characters."<br>  
+"Increase password length to at least 8 characters."  
 5️⃣ Hidden Password Input  
 • The password entry field hides characters using show="*" to protect user input.  
 6️⃣ Responsive Design  
