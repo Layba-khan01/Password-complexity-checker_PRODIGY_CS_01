@@ -1,6 +1,5 @@
 The Password Complexity Checker is an application that evaluates a password's security level based on its length, and use of uppercase/lowercase letters, numbers, and special characters. It categorizes password strength into Very Weak, Weak, Good, or Strong and provides suggestions for improvement.<br>
 It is built using Python and Tkinter, making it a simple yet effective tool for personal and professional use. <br>
-
 🛠 Technologies Used<br>
 1️⃣ Python<br>
 • The core programming language is used to develop the logic behind password assessment.<br>
