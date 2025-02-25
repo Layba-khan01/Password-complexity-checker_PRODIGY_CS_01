@@ -16,20 +16,20 @@ It is built using Python and Tkinter, making it a simple yet effective tool for 
 • The tool has a simple and intuitive interface using Tkinter.<br>
 • Users can enter a password, click a button, and instantly get feedback.<br>
 2️⃣ Password Strength Evaluation<br>
-Evaluate passwords based on:<br>
+•Evaluate passwords based on:<br>
 ✅ Length<br>
 ✅ Uppercase letters<br>
 ✅ Lowercase letters<br>
 ✅ Numbers<br>
 ✅ Special characters<br>
 3️⃣ Strength Categorization<br>
-The tool assigns a strength level:<br>
-• Very Weak (score < 40)<br>
-• Weak (score between 40-59)<br>
-• Good (score between 60-79)<br>
-• Strong (score ≥ 80)<br>
+• The tool assigns a strength level:<br>
+▪️ Very Weak (score < 40)<br>
+▪️ Weak (score between 40-59)<br>
+▪️ Good (score between 60-79)<br>
+▪️ Strong (score ≥ 80)<br>
 4️⃣ Detailed Feedback for Improvement<br>
-If a password is weak, the tool provides suggestions such as:<br>
+• If a password is weak, the tool provides suggestions such as:<br>
 "Include uppercase letters."<br>
 "Add special characters like @, #, !, $."<br>
 "Increase password length to at least 8 characters."  
